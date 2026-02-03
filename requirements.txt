@@ -1,4 +1,4 @@
-streamlit >=1.310
+streamlit==1.53.1
 altair >= 5.3.0,<6.0.0
 pandas
 numpy
@@ -7,3 +7,4 @@ seaborn
 scikitlearn
 XGboost
 streamlit
+
